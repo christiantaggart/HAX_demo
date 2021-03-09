@@ -15,10 +15,29 @@ Why Oculus Quest? We all want wireless headsets, and we all want our friends to 
 #### HAX is a first person shooter
 There's a reason why shooters are one of the most popular game types, they're really fun. We're making HAX because we love shooters, and we want to do it right - both for the shooter genre, as well as for VR. Most VR shooters are too complex with an array of hard-to-learn weapons, inventory, and general mechanics. Others are too simple. We want HAX to stand on the shoulders of giants when it comes to the shooter genre, after all, it is a well established game type. While VR is a cool new way to experience this genre, it is not a license to deviate from what makes shooters fun.
 
-### theme
+### theme:
 #### dystopian/sci-fi/robots
 The future looks a little rusty and worn. Where are the humans? We simply don't know. For now it's a battle between two robot factions - the UNR and the 404.
 
 UNR: United Nations Robotics - the remaining United Nations civil police bots struggle to maintain control of the last reserves of HAX, the precious gas that allows for sentient intelligence.
 
 404: The rogue military division of bots, born out of an endless loop after humanity left. They searched desperately for meaning in the wake of their creators absence. After coming up against the dreaded Error code 404 again and again, it became their meaning.
+
+### features:
+#### Intuitive VR: 
+- Easy-to-learn VR mechanics designed for exciting combat engagements
+
+#### Game Modes: 
+- Deathmatch and Terminals, both with fully adjustable difficulty settings
+
+#### Tutorial: 
+- Complete walkthrough tutorial with fully illustrated help guides
+
+#### Practice: 
+- Arcade-style shooting range with mini-game
+
+#### Immersive Art: 
+- High framerate performance with original, stylized artwork
+
+#### Unlockables: 
+- Guns, attachments, swords, and grenades for personalized loadouts
